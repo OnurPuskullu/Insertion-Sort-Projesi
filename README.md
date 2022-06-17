@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Insertion Sort Projesi
 ### 1.Madde 
 
@@ -37,3 +38,7 @@
 | 2 | [2,3,5,8,7,9,4,15,6]
 | 3 | [2,3,4,8,7,9,5,15,6]
 | 4 | [2,3,4,5,7,9,8,15,6]
+=======
+# InsertionSortProjesi
+Insertion Sort Projesi Uygulaması
+>>>>>>> 58a622d773e55fbfc7e017ee98a8f9c2f63bdf10
