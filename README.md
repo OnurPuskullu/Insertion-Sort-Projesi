@@ -1,2 +1,2 @@
-# Insertion-Sort-Projesi
+# InsertionSortProjesi
 Insertion Sort Projesi Uygulaması
